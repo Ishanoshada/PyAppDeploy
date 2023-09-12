@@ -91,6 +91,19 @@ This README provides step-by-step instructions on how to deploy a Python web app
 
 8. **Access Your App**: Railway will provide a URL to access your Python app.
 
+
+## Example Apps
+
+For your convenience, example apps for both Vercel and Railway are included in this repository:
+
+- **Vercel Example**: You can find the example Python app in the `vercel/` folder.
+
+- **Railway Example**: You can find the example Python app in the `Railway/` folder.
+
+Feel free to explore these examples to understand the project structure and configuration required for each platform.
+
 ## Conclusion
 
 You've successfully deployed your Python web application to both Vercel and Railway. Ensure your app is correctly configured to listen on the designated ports and follows best practices for security and performance. Refer to each platform's documentation for more advanced configurations and features.
+
+
