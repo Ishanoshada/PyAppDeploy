@@ -1,6 +1,8 @@
-# Web App Deployment Examples
+# Web App Deployment 
 
-🚀 Welcome to the Web App Deployment Examples! 🚀
+![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
+
+🚀 Welcome to the Web App Deployment  🚀
 
 Explore the art of deploying Python web applications with elegance and simplicity. This comprehensive guide will take you on a journey through deploying Python apps on two fantastic platforms: **Vercel** and **Railway**.
 
