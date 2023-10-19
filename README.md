@@ -130,6 +130,8 @@ For your convenience, an example Python app for Railway is included in the `rail
 - Join developer communities and forums to connect with others on their deployment journeys.
 - Stay up to date with the latest trends in web development and deployment practices.
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/Pyappdeploy/count.svg)
+
 ## Conclusion
 
 You've successfully navigated the world of Python web app deployment, exploring two fantastic platforms, Vercel and Railway. Whether you're showcasing your projects or building the next big thing, these platforms offer the power and simplicity you need.
